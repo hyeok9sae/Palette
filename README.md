@@ -66,7 +66,7 @@
 
 
 
-## 📞 Contact to '갱상도'
+## 📞 Team '갱상도'
 
 🎨 Frontend Developer
 
@@ -76,7 +76,4 @@
 🔨 Backend Developer
 
 - 김홍준
-
-📺 AI & Raspberry Pi
-
 - 최재혁
